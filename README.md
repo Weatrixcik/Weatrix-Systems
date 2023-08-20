@@ -12,4 +12,4 @@ Sıra Sıra Paslarım İlk Register Paslarım Ardından Diğerlerine Geçerim Up
 
 
 
-* Sunucuya Özel Bot Yaptırmak İsteyen [ClupDev](https://discord.gg/M4eUed6tF2) Weatrix: `1003950576800899083`, Elchavo: `1067476859933179954`
+* Sunucuya Özel Bot Yaptırmak İsteyen [ClupDev](https://discord.gg/M4eUed6tF2) Weatrix: `1003950576800899083`, Chavo: ``719596854379282563``, Elchavo: `1067476859933179954`
