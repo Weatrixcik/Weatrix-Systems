@@ -5,6 +5,9 @@ Sıra Sıra Paslarım İlk Register Paslarım Ardından Diğerlerine Geçerim Up
 
 
 
+# Komutları Birebir Aynısnı Yapmam Herhalde Setupu Kendime Göre Desing Ettim Görseller Aşağıda
+
+![image](https://github.com/Weatrixcik/Weatrix-Atlantis-Systems/assets/121248383/cc639f93-176d-4d5e-9539-59954ce9ec3e)
 
 
 
